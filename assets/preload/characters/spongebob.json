@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 36,
+			"name": "super idol",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bunchbob",
+	"position": [
+		400,
+		400
+	],
+	"healthicon": "spongebob",
+	"flip_x": true,
+	"healthbar_colors": [
+		251,
+		232,
+		26
+	],
+	"camera_position": [
+		-170,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
